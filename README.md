@@ -1,3 +1,3 @@
-# IEEE-problem-solving1
+# IEEE-problem-solving2
 
-Featuring some solutions in Javascript for different Leetcode problems :)
+Featuring some solutions in c++ for general problems that include vectors,stacks and others :)
